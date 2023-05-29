@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: ${CONFIG_GIT} #http://localhost:8888
+  config:
+    import: "configserver:"
+  application:
+    name: apigateway-service-application

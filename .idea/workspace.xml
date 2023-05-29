@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="210bbf12-d2d9-4b1d-9bee-127a804c63ae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/post-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/ConfigServerGit">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/auth-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/userprofile-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/mail-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/elastic-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/api-gateway-service">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SocialMedia" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SocialMedia" type="f1a62948:ProjectNode" />
+                <item name="api-gateway-service" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SocialMedia" type="f1a62948:ProjectNode" />
+                <item name="api-gateway-service" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SocialMedia" type="f1a62948:ProjectNode" />
+                <item name="api-gateway-service" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O60sDmg3eE2VfMOGjacJ3Kmpxz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bertanmortas/Desktop/Isler/BilgeAdam/Intellij Workspace/SocialMedia/userprofile-service/src/main/java/com/bilgeadam/config&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4110a028a4e61c3bf4150c27f1233ae9&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bilgeadam.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/userprofile-service/src/main/java/com/bilgeadam/config" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ConfigServerGit/src/main/resources" />
+      <recent name="$PROJECT_DIR$/post-service/src/main/java/com/bilgeadam/exception" />
+      <recent name="$PROJECT_DIR$/post-service/src/main/java/com/bilgeadam/utility" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bilgeadam.rabbitmq.model" />
+      <recent name="com.bilgeadam.constant" />
+      <recent name="com.bilgeadam.exception" />
+      <recent name="com.bilgeadam.dto.request" />
+      <recent name="com.bilgeadam.dto.response" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthServiceApplication">
+    <configuration name="SocialMedia [clean]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SocialMedia:api-gateway-service [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SocialMedia:api-gateway-service [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SocialMedia:elastic-service [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/elastic-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SocialMedia:userprofile-service [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/userprofile-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SocialMedia:userprofile-service [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/userprofile-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="CONFIG_GIT" value="http://localhost:8888" />
+      </envs>
+      <module name="com.bilgeadam.SocialMedia.api-gateway-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="audience" value="bilgeadam" />
+        <env name="issuer" value="socialmedia" />
+        <env name="secretkey" value="deneme" />
+        <env name="CONFIG_GIT" value="http://localhost:8888" />
+      </envs>
+      <module name="com.bilgeadam.SocialMedia.auth-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.AuthServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="com.bilgeadam.SocialMedia.config-server.main" />
+      <selectedOptions>
+        <option name="environmentVariables" />
+      </selectedOptions>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerGitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="GIT_JAVA7_PASSWORD" value="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" />
+      </envs>
+      <module name="SocialMedia.ConfigServerGit.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.ConfigServerGitApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilgeadam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="CONFIG_GIT" value="http://localhost:8888" />
+      </envs>
+      <module name="com.bilgeadam.SocialMedia.elastic-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.ElasticSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="CONFIG_GIT" value="http://localhost:8888" />
+      </envs>
+      <module name="com.bilgeadam.SocialMedia.mail-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.MailServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilgeadam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="audience" value="bilgeadam" />
+        <env name="issuer" value="socialmedia" />
+        <env name="secretkey" value="deneme" />
+        <env name="CONFIG_GIT" value="http://localhost:8888" />
+      </envs>
+      <module name="SocialMedia.post-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.PostServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilgeadam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProfileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="redisurl" value="localhost" />
+        <env name="audience" value="bilgeadam" />
+        <env name="issuer" value="socialmedia" />
+        <env name="secretkey" value="deneme" />
+        <env name="CONFIG_GIT" value="http://localhost:8888" />
+      </envs>
+      <module name="com.bilgeadam.SocialMedia.userprofile-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilgeadam.UserProfileApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilgeadam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.SocialMedia [clean]" />
+      <item itemvalue="Gradle.SocialMedia:api-gateway-service [buildDependents]" />
+      <item itemvalue="Gradle.SocialMedia:api-gateway-service [build]" />
+      <item itemvalue="Gradle.SocialMedia:elastic-service [buildDependents]" />
+      <item itemvalue="Gradle.SocialMedia:userprofile-service [buildDependents]" />
+      <item itemvalue="Gradle.SocialMedia:userprofile-service [build]" />
+      <item itemvalue="Spring Boot.PostServiceApplication" />
+      <item itemvalue="Spring Boot.MailServiceApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.ConfigServerGitApplication" />
+      <item itemvalue="Spring Boot.ElasticSearchApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.AuthServiceApplication" />
+      <item itemvalue="Spring Boot.UserProfileApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SocialMedia:api-gateway-service [buildDependents]" />
+        <item itemvalue="Gradle.SocialMedia:api-gateway-service [build]" />
+        <item itemvalue="Gradle.SocialMedia:userprofile-service [buildDependents]" />
+        <item itemvalue="Gradle.SocialMedia:userprofile-service [build]" />
+        <item itemvalue="Gradle.SocialMedia:elastic-service [buildDependents]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="210bbf12-d2d9-4b1d-9bee-127a804c63ae" name="Changes" comment="" />
+      <created>1680865931591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680865931591</updated>
+      <workItem from="1680865932810" duration="11074000" />
+      <workItem from="1681123984504" duration="10184000" />
+      <workItem from="1681148219237" duration="406000" />
+      <workItem from="1681209351943" duration="12283000" />
+      <workItem from="1681243645518" duration="1386000" />
+      <workItem from="1681295639664" duration="13786000" />
+      <workItem from="1681382212615" duration="10600000" />
+      <workItem from="1681470524623" duration="11457000" />
+      <workItem from="1681506916202" duration="5616000" />
+      <workItem from="1681548706918" duration="1852000" />
+      <workItem from="1681643874135" duration="620000" />
+      <workItem from="1681727913020" duration="7339000" />
+      <workItem from="1681819102429" duration="5569000" />
+      <workItem from="1681905318774" duration="9854000" />
+      <workItem from="1681940871567" duration="2751000" />
+      <workItem from="1682003551933" duration="840000" />
+      <workItem from="1682154262385" duration="8231000" />
+      <workItem from="1682333072345" duration="9114000" />
+      <workItem from="1682362602715" duration="7113000" />
+      <workItem from="1682418844017" duration="9552000" />
+      <workItem from="1682505300317" duration="9413000" />
+      <workItem from="1682534101506" duration="5334000" />
+      <workItem from="1682591709168" duration="7834000" />
+      <workItem from="1682680360928" duration="598000" />
+      <workItem from="1682757798770" duration="11842000" />
+      <workItem from="1682785096174" duration="459000" />
+      <workItem from="1682839512337" duration="4089000" />
+      <workItem from="1683023644084" duration="9727000" />
+      <workItem from="1683112976072" duration="9146000" />
+      <workItem from="1683197200465" duration="9803000" />
+      <workItem from="1683284718926" duration="9334000" />
+      <workItem from="1683372495041" duration="924000" />
+      <workItem from="1683541900908" duration="11928000" />
+      <workItem from="1683566473088" duration="5261000" />
+      <workItem from="1683621730334" duration="3616000" />
+      <workItem from="1683628470355" duration="172000" />
+      <workItem from="1683628645721" duration="11636000" />
+      <workItem from="1683662182977" duration="2362000" />
+      <workItem from="1683714692440" duration="8678000" />
+      <workItem from="1683802201329" duration="7234000" />
+      <workItem from="1683889602953" duration="6358000" />
+      <workItem from="1684175289756" duration="6345000" />
+      <workItem from="1684233736705" duration="6357000" />
+      <workItem from="1684322759365" duration="25000" />
+      <workItem from="1684348320619" duration="5297000" />
+      <workItem from="1684405897264" duration="16013000" />
+      <workItem from="1684491611319" duration="4862000" />
+      <workItem from="1684523937970" duration="11108000" />
+      <workItem from="1684567409704" duration="11464000" />
+      <workItem from="1684653020999" duration="18082000" />
+      <workItem from="1684751348131" duration="6107000" />
+      <workItem from="1684780159924" duration="5337000" />
+      <workItem from="1684838227028" duration="1783000" />
+      <workItem from="1684872402608" duration="758000" />
+      <workItem from="1684908994588" duration="301000" />
+      <workItem from="1684925798498" duration="11530000" />
+      <workItem from="1685043531264" duration="731000" />
+      <workItem from="1685179401581" duration="3845000" />
+      <workItem from="1685343862094" duration="1124000" />
+      <workItem from="1685373429502" duration="634000" />
+      <workItem from="1685380600341" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
+  </component>
+</project>

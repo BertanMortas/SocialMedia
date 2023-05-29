@@ -1,0 +1,37 @@
+#server:
+#  port: 8080
+#spring:
+#  data:
+#    mongodb:
+#      host: localhost
+#      port: 27017
+#      database: userprofileDB
+#      username: JavaUser
+#      password: root
+##  datasource:
+##    driver-class-name: org.postgresql.Driver
+##    url: jdbc:postgresql://localhost:5432/SocialMediaUserProfileDB
+##    username: postgres
+##    password: Bm15481527
+##  jpa:
+##    hibernate:
+##      ddl-auto: update
+##    show-sql: true
+##    properties:
+##      hibernate:
+##        format_sql: true
+## yukarısı postgre bağlantısı
+#
+#jwt:
+#  secretkey: ${secretkey}
+#  audience: ${audience}
+#  issuer: ${issuer}
+
+spring:
+  cloud:
+    config:
+      uri: ${CONFIG_GIT} #http://34.155.84.8:8888 #http://localhost:8888
+  config:
+    import: "configserver:"
+  application:
+    name: user-service-application
